@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {"id": "Alice", "group": 1},
+    {"id": "Hatter", "group": 3},
+    {"id": "Caterpillar", "group": 4},
+    {"id": "RedQueen", "group": 2},
+    {"id": "WhiteRabbit", "group": 4},
+    {"id": "CheshireCat", "group": 4},
+    {"id": "RedKing", "group": 2},
+    {"id": "Duchess", "group": 3},
+    {"id": "MockTurtle", "group": 5},
+    {"id": "Knave", "group": 2},
+    {"id": "Gryphon", "group": 5},
+    {"id": "MarchHare", "group": 4},
+    {"id": "Sister", "group": 1},
+    {"id": "Dormouse", "group": 4}
+    
+  ],
+  "links": [
+    {"source": "Alice", "target": "Hatter", "value": 20},
+    {"source": "Alice", "target": "Caterpillar", "value": 17},
+    {"source": "Alice", "target": "RedQueen", "value": 18},
+    {"source": "Alice", "target": "WhiteRabbit", "value": 6},
+    {"source": "Alice", "target": "CheshireCat", "value": 15},
+    {"source": "Alice", "target": "RedKing", "value": 8},
+    {"source": "Alice", "target": "Duchess", "value": 17},
+    {"source": "Alice", "target": "MockTurtle", "value": 31},
+    {"source": "Alice", "target": "Knave", "value": 1},
+    {"source": "Alice", "target": "Gryphon", "value": 22},
+    {"source": "Alice", "target": "MarchHare", "value": 10},
+    {"source": "Alice", "target": "Dormouse", "value": 12},
+    {"source": "Alice", "target": "Sister", "value": 2}  
+   
+  ]  
+}
