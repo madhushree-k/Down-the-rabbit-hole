@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://downtherabbithole.com/index.html</loc>
+    <lastmod>2018-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://downtherabbithole.com/images/downtherabbitholenew-05.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://downtherabbithole.com/images/asset%2010jarawa.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://downtherabbithole.com/images/asset%209jarawa.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://downtherabbithole.com/images/asset%209jarawa-crop-u716.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://downtherabbithole.com/images/asset%209jarawa-crop-u7162.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
